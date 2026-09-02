@@ -28,7 +28,6 @@
 - ⚡ Specializing in **n8n**, AI agent development, **LLM integration** (Groq, Claude), and workflow automation
 - 🔗 Passionate about turning manual business processes into intelligent systems using **APIs**, **webhooks**, and AI
 - 💬 Ask me about: n8n Automation, AI Agents, LLM Integration, Workflow Automation, Full-Stack Development
-- 🚀 *[Add your own automation philosophy or fun fact here]*
 
 ---
 
