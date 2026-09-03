@@ -1,7 +1,7 @@
 <!--
   Before publishing:
-  1. Replace YOUR_GITHUB_USERNAME (appears ~8 times below) with your real GitHub username.
-  2. Replace YOUR_EMAIL with your email.
+  1. Username is already filled in as iamhamzamajeed.
+  2. Replace YOUR_EMAIL with your real email.
   3. Update the Featured Projects links once each repo is pushed.
 -->
 
@@ -11,10 +11,13 @@
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Building+AI+Agents+that+get+work+done;n8n+Workflow+Automation+Specialist;Full-Stack+Web+Developer;Turning+manual+workflows+into+intelligent+systems" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-majeed-a62aa92aa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmian6739@gmail.com)
+![Status](https://img.shields.io/badge/Status-Open_to_Freelance_Work-success?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00C2A8&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-majeed-a62aa92aa)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~012d744c48b5e848ec)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamhamzamajeed&color=00C2A8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,12 +25,15 @@
 
 ### 👋 About Me
 
+I'm Hamza — I design and build AI-driven automation systems that turn repetitive business workflows into hands-off, intelligent processes.
+
 - 🎓 Computer Science student at **COMSATS University Islamabad, Vehari Campus**
 - 💼 Freelance **AI Automation Specialist**, building on Upwork & LinkedIn
 - 🤖 Building **AI Agents**, **n8n workflows**, and end-to-end **automation systems** that solve real business problems
 - ⚡ Specializing in **n8n**, AI agent development, **LLM integration** (Groq, Claude), and workflow automation
 - 🔗 Passionate about turning manual business processes into intelligent systems using **APIs**, **webhooks**, and AI
 - 💬 Ask me about: n8n Automation, AI Agents, LLM Integration, Workflow Automation, Full-Stack Development
+- 🚀 *[Add your own automation philosophy or fun fact here]*
 
 ---
 
@@ -70,6 +76,36 @@
 
 ---
 
+### 🧭 How I Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔍 Discover**
+
+Dig into the actual bottleneck before writing a single node — most "automation" problems are really process problems in disguise.
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Automate**
+
+Build with n8n + AI agents (Groq, Claude), with human-in-the-loop checkpoints wherever a wrong move would cost the client.
+
+</td>
+<td width="33%" valign="top">
+
+**🚀 Deliver**
+
+Ship production-ready systems — logging, reporting, and failover handling built in, not bolted on later.
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🔭 Currently Building
 
 - 🤝 **Omnichannel AI Concierge & Failover Engine** — a 4-workflow enterprise n8n system unifying Gmail + WhatsApp, with an AI brain, human-in-the-loop approval, and automatic failover
@@ -82,12 +118,12 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏥 [MediMap](https://github.com/YOUR_GITHUB_USERNAME/medimap) | AI-powered symptom tracker & doctor finder | Next.js 14, Node.js, Express, MongoDB, Claude API |
-| 🤝 [Omnichannel AI Concierge](https://github.com/YOUR_GITHUB_USERNAME/omnichannel-ai-concierge) | 4-workflow n8n system with an AI brain, human approval & failover, backed by a MySQL ledger | n8n, MySQL, Groq AI |
-| 🎯 [AI Client Hunter](https://github.com/YOUR_GITHUB_USERNAME/ai-client-hunter) | Daily n8n workflow that finds & qualifies US prospects, then drafts personalized outreach for review | n8n, Apify, Groq AI |
-| 🏠 [Real Estate Lead Finder](https://github.com/YOUR_GITHUB_USERNAME/real-estate-lead-finder) | Scans LinkedIn for real-estate business pain points and scores them as sales-ready leads | n8n, Tavily, Groq AI |
-| 🛒 [Multi-Category E-Commerce](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-platform) | Full-stack store (Electronics, Kids' Clothing, Pesticides) with a custom admin panel | Next.js, Tailwind CSS, MongoDB |
-| 🗣️ [AI Voice Assistant](https://github.com/YOUR_GITHUB_USERNAME/ai-voice-assistant) | Telegram voice assistant using Whisper (STT) + Llama (LLM) + TTS | n8n, Groq |
+| 🏥 [MediMap](https://github.com/iamhamzamajeed/medimap) | AI-powered symptom tracker & doctor finder | Next.js 14, Node.js, Express, MongoDB, Claude API |
+| 🤝 [Omnichannel AI Concierge](https://github.com/iamhamzamajeed/omnichannel-ai-concierge) | 4-workflow n8n system with an AI brain, human approval & failover, backed by a MySQL ledger | n8n, MySQL, Groq AI |
+| 🎯 [AI Client Hunter](https://github.com/iamhamzamajeed/ai-client-hunter) | Daily n8n workflow that finds & qualifies US prospects, then drafts personalized outreach for review | n8n, Apify, Groq AI |
+| 🏠 [Real Estate Lead Finder](https://github.com/iamhamzamajeed/real-estate-lead-finder) | Scans LinkedIn for real-estate business pain points and scores them as sales-ready leads | n8n, Tavily, Groq AI |
+| 🛒 [Multi-Category E-Commerce](https://github.com/iamhamzamajeed/ecommerce-platform) | Full-stack store (Electronics, Kids' Clothing, Pesticides) with a custom admin panel | Next.js, Tailwind CSS, MongoDB |
+| 🗣️ [AI Voice Assistant](https://github.com/iamhamzamajeed/ai-voice-assistant) | Telegram voice assistant using Whisper (STT) + Llama (LLM) + TTS | n8n, Groq |
 
 *(Update these links once each project has its own repo — or delete any row you're not ready to show yet.)*
 
@@ -97,10 +133,34 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamhamzamajeed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamzamajeed&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=iamhamzamajeed&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamhamzamajeed&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamhamzamajeed/iamhamzamajeed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamhamzamajeed/iamhamzamajeed/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamhamzamajeed/iamhamzamajeed/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -110,8 +170,11 @@
 
 ### 🌐 Let's Connect
 
+💬 Have a workflow, process, or idea that needs automating? Let's talk.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-majeed-a62aa92aa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmian6739@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~012d744c48b5e848ec)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
 
