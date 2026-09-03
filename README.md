@@ -14,8 +14,7 @@
 ![Status](https://img.shields.io/badge/Status-Open_to_Freelance_Work-success?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-majeed-a62aa92aa)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~012d744c48b5e848ec)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmian6739@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamhamzamajeed&color=00C2A8&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -33,7 +32,6 @@ I'm Hamza — I design and build AI-driven automation systems that turn repetiti
 - ⚡ Specializing in **n8n**, AI agent development, **LLM integration** (Groq, Claude), and workflow automation
 - 🔗 Passionate about turning manual business processes into intelligent systems using **APIs**, **webhooks**, and AI
 - 💬 Ask me about: n8n Automation, AI Agents, LLM Integration, Workflow Automation, Full-Stack Development
-- 🚀 *[Add your own automation philosophy or fun fact here]*
 
 ---
 
@@ -125,7 +123,6 @@ Ship production-ready systems — logging, reporting, and failover handling buil
 | 🛒 [Multi-Category E-Commerce](https://github.com/iamhamzamajeed/ecommerce-platform) | Full-stack store (Electronics, Kids' Clothing, Pesticides) with a custom admin panel | Next.js, Tailwind CSS, MongoDB |
 | 🗣️ [AI Voice Assistant](https://github.com/iamhamzamajeed/ai-voice-assistant) | Telegram voice assistant using Whisper (STT) + Llama (LLM) + TTS | n8n, Groq |
 
-*(Update these links once each project has its own repo — or delete any row you're not ready to show yet.)*
 
 ---
 
@@ -173,9 +170,9 @@ Ship production-ready systems — logging, reporting, and failover handling buil
 💬 Have a workflow, process, or idea that needs automating? Let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-majeed-a62aa92aa)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~012d744c48b5e848ec)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmian6739@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
 
 </div>
+----
